@@ -11,6 +11,8 @@ docker compose up # docker-compose up
 3) GET /query
 4) POST /write
 
+## В tsdb_data лежит пример файловой структуры БД
+
 # Что сделано:
 
 ## [Лаба 1 ХАСД](https://docs.google.com/document/d/11OfJM226jPn12n8kMkyefUUKAimqHwyJkqLlkwfKo4I/edit?usp=sharing)
