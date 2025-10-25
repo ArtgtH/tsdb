@@ -18,8 +18,8 @@ docker compose up # docker-compose up
 ## [Лаба 1 ХАСД](https://docs.google.com/document/d/11OfJM226jPn12n8kMkyefUUKAimqHwyJkqLlkwfKo4I/edit?usp=sharing)
 ! Чтобы запустить benchmark, надо добавить зависимости protobuf - с текущим go.mod не пойдет) 
 
-## Лаба 1 ОПВС - ✅
-## Лаба 2 ОПВС - ✅
-## Лаба 3 ОПВС - ✅
-## Лаба 4 ОПВС - ❌
-## Лаба 5 ОПВС - ❌
+## Лаба 1 ОПВП - ✅
+## Лаба 2 ОПВП - ✅
+## Лаба 3 ОПВП - ✅
+## Лаба 4 ОПВП - ❌
+## Лаба 5 ОПВП - ❌
