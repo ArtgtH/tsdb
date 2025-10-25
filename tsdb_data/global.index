@@ -1,0 +1,68 @@
+{
+  "Series": {
+    "e56c0a9481b5fed": {
+      "series_id": {
+        "metric": "GPU",
+        "tags": {
+          "env": "prod",
+          "org": "test-1",
+          "server": "ND-1234"
+        }
+      },
+      "file_path": "tsdb_data/metrics/GPU/series_env_prod_org_test-1_server_ND-1234.tsdb",
+      "block_count": 1,
+      "total_points": 3,
+      "start_time": 1609459200000000000,
+      "end_time": 1609459320000000000,
+      "min_value": 14.5,
+      "max_value": 16.8,
+      "created_at": 0
+    },
+    "edc9949112c18d49": {
+      "series_id": {
+        "metric": "CPU",
+        "tags": {
+          "env": "prod",
+          "org": "test-1",
+          "server": "ND-1234"
+        }
+      },
+      "file_path": "tsdb_data/metrics/CPU/series_env_prod_org_test-1_server_ND-1234.tsdb",
+      "block_count": 1,
+      "total_points": 3,
+      "start_time": 1609459200000000000,
+      "end_time": 1609459320000000000,
+      "min_value": 14.5,
+      "max_value": 16.8,
+      "created_at": 0
+    }
+  },
+  "MetricToSeries": {
+    "CPU": {
+      "edc9949112c18d49": true
+    },
+    "GPU": {
+      "e56c0a9481b5fed": true
+    }
+  },
+  "TagIndex": {
+    "env": {
+      "prod": {
+        "e56c0a9481b5fed": true,
+        "edc9949112c18d49": true
+      }
+    },
+    "org": {
+      "test-1": {
+        "e56c0a9481b5fed": true,
+        "edc9949112c18d49": true
+      }
+    },
+    "server": {
+      "ND-1234": {
+        "e56c0a9481b5fed": true,
+        "edc9949112c18d49": true
+      }
+    }
+  }
+}
